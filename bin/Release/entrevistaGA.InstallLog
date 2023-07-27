@@ -1,0 +1,15 @@
+﻿Instalando ensamblado 'C:\Users\hp\Documents\entrevistas 2023\entrevistaGA\bin\Release\entrevistaGA.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Users\hp\Documents\entrevistas 2023\entrevistaGA\bin\Release\entrevistaGA.InstallLog
+   assemblypath = C:\Users\hp\Documents\entrevistas 2023\entrevistaGA\bin\Release\entrevistaGA.exe
+   logtoconsole = 
+Instalando el servicio AlexService...
+El servicio AlexService se ha instalado correctamente.
+Creando el origen de EventLog AlexService en el registro Application...
+Confirmando ensamblado 'C:\Users\hp\Documents\entrevistas 2023\entrevistaGA\bin\Release\entrevistaGA.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Users\hp\Documents\entrevistas 2023\entrevistaGA\bin\Release\entrevistaGA.InstallLog
+   assemblypath = C:\Users\hp\Documents\entrevistas 2023\entrevistaGA\bin\Release\entrevistaGA.exe
+   logtoconsole = 
