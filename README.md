@@ -16,6 +16,7 @@ Muy buenas tardes, le saluda Alejandro González, matemático y programador jr. 
 * readyToProcess | es la llave de la ruta en la que se guardan los archivos aún no procesados. 
 
 3. Cambie las rutas de dichas llaves a las rutas absolutas de sus carpetas con cada uno de los propósitos correspondientes en su sistema. 
+4. En el apartado "connectionStrings" en la etiqueda de nombre "ConexionSQL" agregue el usuario y contraseña del servidor correspondiente, cambiando los asteriscos en dicho apartado.
 
 
 ### Activando el formulario 
